@@ -41,14 +41,14 @@ A short, impactful description of the project, its purpose, and the problem it s
 
 - 🌐 Live Demo: [link]
 - 🔗 Repository: [link]
-- 🛠 Built with: [tech stack]
+- 🛠 Built with: [HTML,CSS]
 
 ### [Project Name]
 Another standout project that showcases your technical depth, creativity, or product thinking.
 
 - 🌐 Live Demo: [link]
 - 🔗 Repository: [link]
-- 🛠 Built with: [tech stack]
+- 🛠 Built with: [HTML,CSS]
 
 ## GitHub Stats
 
@@ -59,24 +59,18 @@ Another standout project that showcases your technical depth, creativity, or pro
 
 ## Current Focus
 
-- Building [type of project or product]
-- Exploring [new technology or concept]
-- Contributing to [open source/community/project]
-- Improving [specific skill or area]
+- Building [Restaurant mapping website]
+- Improving [JAWASCRIPT]
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourportfolio.com) • [Email](mailto:you@example.com) • [Twitter / X](https://x.com/your-handle)
+ [Linkdin](www.linkedin.com/in/reshika-g-a5a089300)   [Email](reshikasai8@gmail.com) 
 
 ## A Quick Note
 
 I’m always open to meaningful collaborations, side projects, and opportunities where I can learn, build, and contribute.
 
----
 
-## Want this profile tailored to you?
-
-Reply with these details and I’ll personalize it:
 
 - RESHIKA STUDENT AT ATRIA INSTITUTE OF TECHNOLOGY
 - SKILLS- HTML,CSS,JAWASCRIPT
