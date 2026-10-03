@@ -64,7 +64,8 @@ Another standout project that showcases your technical depth, creativity, or pro
 
 ## Let's Connect
 
- [Linkdin](www.linkedin.com/in/reshika-g-a5a089300)   [Email](reshikasai8@gmail.com) 
+ [Linkdin](www.linkedin.com/in/reshika-g-a5a089300)
+ [Email](reshikasai8@gmail.com) 
 
 ## A Quick Note
 
