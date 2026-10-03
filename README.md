@@ -62,11 +62,6 @@ Another standout project that showcases your technical depth, creativity, or pro
 - Building [Restaurant mapping website]
 - Improving [JAWASCRIPT]
 
-## Let's Connect
-
- [Linkdin](www.linkedin.com/in/reshika-g-a5a089300)
- [Email](reshikasai8@gmail.com) 
-
 ## A Quick Note
 
 I’m always open to meaningful collaborations, side projects, and opportunities where I can learn, build, and contribute.
